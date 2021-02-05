@@ -4,7 +4,7 @@
              x:Class="gitTest001.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+        <Frame BackgroundColor="#f196F3" Padding="24" CornerRadius="0">
             <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
         <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
@@ -13,7 +13,7 @@
             <Label.FormattedText>
                 <FormattedString>
                     <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
+                        <Span Text="Learn morfhgf fhgfhg  fhg fhg fe at "/>
                         <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
                     </FormattedString.Spans>
                 </FormattedString>
